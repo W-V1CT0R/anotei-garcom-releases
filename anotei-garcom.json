@@ -1,8 +1,8 @@
 {
   "app": "anotei-garcom",
-  "versionName": "1.0.1",
-  "versionCode": 211174086,
-  "apkUrl": "https://github.com/W-V1CT0R/anotei-garcom-releases/releases/download/v1.0.1/AnotEI-Garcom-1.0.1.apk",
-  "sha256": "bdb0aef1a10cdbe4dd22919022b7e1c4ab69a7089ebedad7bdb018c284abf4b0",
+  "versionName": "1.0.2",
+  "versionCode": 211645159,
+  "apkUrl": "https://github.com/W-V1CT0R/anotei-garcom-releases/releases/download/v1.0.2/AnotEI-Garcom-1.0.2.apk",
+  "sha256": "50002950c98666f0ab1fc6f039afc1e40de9465c2992f7b9ba54c4289a2a7140",
   "releaseNotes": "Correções e melhorias. Instale para manter o Garçom atualizado."
 }
